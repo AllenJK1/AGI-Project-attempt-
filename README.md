@@ -2,61 +2,62 @@
 
 Welcome to an open-source initiative toward a truly **General Intelligent System** — one that doesn't just predict or autocomplete, but **learns, reasons, remembers, and understands**.
 
-This project is **not based on Transformers** or the usual "scaling laws" trend. Instead, we're exploring a **radically different design philosophy** inspired by cognition, memory activation, and emergent understanding.
+This project diverges from the dominant transformer-based paradigm. While transformers simulate intelligence through scale, this vision explores a deeper, more **structurally intelligent** design — one closer to how the **human mind** operates.
 
 ---
 
 ## 🚫 Why Not Transformers?
 
-While transformers like GPT and Gemini are powerful pattern recognizers, they:
-- Lack long-term, contextually aware memory
-- Cannot form goal-oriented internal reasoning
-- Only *simulate* understanding, rather than embody it
+Transformers like GPT and Gemini:
+- Depend on brute-force parameter scaling and memorization
+- Encode knowledge explicitly in billions of weights
+- Simulate reasoning but lack **dynamic internal understanding**
 
-It's time to **step away from autocomplete** and move toward actual intelligence.
+Instead, this project aims for a system that **learns actively**, **reasons internally**, and **remembers functionally**, not statistically.
 
 ---
 
-## 🔍 Minimal Design Insight
+## 🧠 Core Design Insight (Brief Overview)
 
-At the heart of this AGI vision lies the idea of:
+This AGI concept is based on a novel cognitive-inspired model that:
 
-> **Memory Reactivation** – where memory isn't statically stored but is **dynamically reawakened** by specific neuron activation patterns, enabling the model to "remember" without bulk data lookup.
+> Utilizes **infinite mathematical patterns** to embed knowledge implicitly — in such a way that it cannot be easily extracted, but can be **reactivated** through specific internal signals.
 
-This model:
-- Develops internal states through **experience-based reinforcement**
-- Reactivates past logic paths rather than retraining from scratch
-- Can **ask questions** when it encounters uncertainty — learning *actively*, not passively
+Key features of the model include:
+- **Memory Reactivation**: Knowledge isn't statically stored; it's reawakened through **neuronal-like activations**
+- **Non-brute-force architecture**: Like the human brain, it doesn't rely on massive weights but on **pattern-based logic** and emergent structure
+- **Self-questioning mechanisms**: The system is designed to **detect uncertainty** and seek clarification — a primitive form of curiosity
+- **Continuous internal evolution**: Learning occurs via **experience-driven rebalancing**, not weight refitting alone
 
-It evolves its structure organically rather than relying on hardcoded architectural depth.
+This approach breaks away from the idea that intelligence must be *large* to be *general*. Instead, it emphasizes **structure, emergence, and adaptability**.
 
-🧠 **Note:** The concept may not be fully proven yet — but based on current understanding, it remains a **plausible and promising direction** for AGI.
+🧠 **Note:** The design is not claimed to be foolproof — but it is **plausible, unconventional, and worth exploring**.
 
 ---
 
 ## 🛠️ Current Status
 
-- ✅ Core idea defined and explored
-- 🚧 No code has been written yet
-- 📬 Awaiting interest from collaborators who share the vision
+- ✅ Foundational idea defined and conceptually validated
+- 🚧 Code implementation not yet started
+- 📬 Seeking collaborators who value innovation and open-source intelligence
 
 ---
 
 ## 💡 Looking for Collaborators
 
 If you’re:
-- A researcher tired of today's echo chamber
-- A developer who wants to work on *real* intelligence
-- A thinker who values **open, decentralized AGI**
+- A researcher who feels constrained by today’s dominant architectures
+- A developer driven by curiosity, not benchmarks
+- A thinker who believes AGI should be **open, intelligent, and aligned with understanding**
 
-...reach out at:
+Reach out directly:
 
 📧 **alienware105@proton.me**
 
-Further details and development direction will be shared personally with those who reach out.
+Further design insight will be shared privately with genuinely interested contributors.
 
 ---
 
 > “The future doesn’t belong to those who scale models, but to those who rethink them.”
 
-Let’s build it. 🧠
+Let’s build something truly intelligent. 🧠
